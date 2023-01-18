@@ -95,6 +95,10 @@ nav a {
   border-radius: 5px;
   padding: 0.5em 1em;
 }
+.signin:hover {
+  background-color: white;
+  color: black;
+}
 /* search section */
 .searchcontainer {
   background-color: #dadbf1;
